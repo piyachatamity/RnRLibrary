@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RnRUIKit.iml" filepath="$PROJECT_DIR$/.idea/modules/RnRUIKit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RnRUIKit.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RnRUIKit.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RnRUIKit.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RnRUIKit.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RnRUIKit.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RnRUIKit.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RnRUIKit.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RnRUIKit.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testlibrary/RnRUIKit.testlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/testlibrary/RnRUIKit.testlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testlibrary/RnRUIKit.testlibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/testlibrary/RnRUIKit.testlibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testlibrary/RnRUIKit.testlibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/testlibrary/RnRUIKit.testlibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testlibrary/RnRUIKit.testlibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/testlibrary/RnRUIKit.testlibrary.unitTest.iml" />
+    </modules>
+  </component>
+</project>

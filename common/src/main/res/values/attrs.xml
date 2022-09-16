@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RRText">
+        <attr name="textColor" format="color|reference" />
+        <attr name="variant">
+            <flag name="label1" value="0" />
+            <flag name="label2" value="1" />
+            <flag name="body1" value="2" />
+            <flag name="body2" value="3" />
+            <flag name="title" value="4" />
+            <flag name="headline" value="5" />
+            <flag name="caption" value="6" />
+            <flag name="overline" value="7" />
+        </attr>
+    </declare-styleable>
+</resources>
