@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/RnRUIKit.iml" filepath="$PROJECT_DIR$/.idea/modules/RnRUIKit.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RnRUIKit.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RnRUIKit.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RnRUIKit.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RnRUIKit.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/hellolibrary/RnRUIKit.app.hellolibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/app/hellolibrary/RnRUIKit.app.hellolibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/hellolibrary/RnRUIKit.app.hellolibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/hellolibrary/RnRUIKit.app.hellolibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/hellolibrary/RnRUIKit.app.hellolibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/hellolibrary/RnRUIKit.app.hellolibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/hellolibrary/RnRUIKit.app.hellolibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/hellolibrary/RnRUIKit.app.hellolibrary.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RnRUIKit.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RnRUIKit.app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RnRUIKit.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RnRUIKit.app.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/testlibrary/RnRUIKit.testlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/testlibrary/RnRUIKit.testlibrary.iml" />

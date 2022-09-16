@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "RnRUIKit"
 include ':app'
 include ':testlibrary'
+include ':app:hellolibrary'
