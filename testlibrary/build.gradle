@@ -58,8 +58,8 @@ afterEvaluate {
                 from components.release
 
                 groupId = 'com.github.piyachatamity'
-                artifactId = 'testlibrary'
-                version = '0.0.1-alpha04'
+                artifactId = 'RnRLibrary'
+                version = '0.0.2-alpha01'
             }
         }
     }
