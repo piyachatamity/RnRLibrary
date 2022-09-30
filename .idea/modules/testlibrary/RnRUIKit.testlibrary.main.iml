@@ -61,6 +61,7 @@
     <content url="file://$MODULE_DIR$/../../../testlibrary/src/debug" />
     <content url="file://$MODULE_DIR$/../../../testlibrary/src/main">
       <sourceFolder url="file://$MODULE_DIR$/../../../testlibrary/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../testlibrary/src/main/res" type="java-resource" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
